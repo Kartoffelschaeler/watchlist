@@ -1,3 +1,5 @@
+# holy vibecode #
+
 # Movie Watchlist (Shared Password Mode)
 
 Static movie watchlist app with:
